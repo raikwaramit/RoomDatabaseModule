@@ -34,7 +34,7 @@ The project is organized as follows:
 
 ## Screenshot
 
-- ![Screenshot1](screenshot/screenshot1.png)
+- ![Screenshot1](screenshots/screenshot1.png)
 
 ## Implementation Steps 🛠️
 
